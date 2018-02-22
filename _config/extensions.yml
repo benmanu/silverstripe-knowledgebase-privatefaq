@@ -1,0 +1,15 @@
+FAQ:
+  extensions:
+    - PrivateFAQExtension
+
+KnowledgebasePage_Controller:
+  extensions:
+    - KnowledgebasePage_ControllerExtension
+
+KnowledgebaseSearchIndex:
+  extensions:
+    - KnowledgebaseSearchIndexPrivateExtension
+
+KnowledgeBaseSearchForm:
+  extensions:
+    - KnowledgeBaseSearchFormPrivateExtension

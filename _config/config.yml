@@ -1,0 +1,4 @@
+---
+Name: knowledgebase-privatefaq
+After: 'knowledgebase/*'
+---
